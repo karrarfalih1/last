@@ -1,0 +1,3 @@
+﻿time,type,detail
+14:15:50,start,source=0 signal=fused model=emotion_model.keras
+14:16:06,stop,frames=117

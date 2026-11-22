@@ -1,0 +1,11 @@
+opencv-python
+mediapipe==0.10.14
+tensorflow==2.16.2
+numpy<2
+requests
+matplotlib
+pillow
+arabic-reshaper
+python-bidi
+kagglehub
+edge-tts

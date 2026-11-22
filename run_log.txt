@@ -1,0 +1,14 @@
+14:58:09 INFO    [main] ملف المريض: patients/default.json  مريض تجريبي
+14:58:12 INFO    [main] Blynk: غير مفعّل (ضع BLYNK_TOKEN في ملف .env)   |   إشارة الرمش: fused   |   سجل الجلسة: logs\session_20261115_145809.csv
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794743892.749033    9144 face_landmarker_graph.cc:174] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1794743892.788977   12812 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1794743892.890698   16604 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+14:58:27 INFO    [main] [warning] المريض غير ظاهر في الكاميرا
+C:\forall\last\venv\Lib\site-packages\google\protobuf\symbol_database.py:55: UserWarning: SymbolDatabase.GetPrototype() is deprecated. Please use message_factory.GetMessageClass() instead. SymbolDatabase.GetPrototype() will be removed soon.
+  warnings.warn('SymbolDatabase.GetPrototype() is deprecated. Please '
+15:10:13 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+15:10:22 INFO    [main] [request] أحتاج ماء
+15:10:28 INFO    [main] [request] أحتاج طعام
+15:10:39 INFO    [main] [request] ألم في الرأس

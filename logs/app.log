@@ -1,0 +1,17 @@
+2026-11-15 14:32:23,464 INFO    [main] ملف المريض: patients/default.json  مريض تجريبي
+2026-11-15 14:32:26,675 INFO    [main] Blynk: غير مفعّل (ضع BLYNK_TOKEN في ملف .env)   |   إشارة الرمش: fused   |   سجل الجلسة: logs\session_20261115_143223.csv
+2026-11-15 14:41:43,697 INFO    [main] ملف المريض: patients/default.json  مريض تجريبي
+2026-11-15 14:41:48,080 INFO    [main] Blynk: غير مفعّل (ضع BLYNK_TOKEN في ملف .env)   |   إشارة الرمش: fused   |   سجل الجلسة: logs\session_20261115_144143.csv
+2026-11-15 14:48:01,500 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:48:20,534 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:49:38,014 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:49:52,581 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:51:46,180 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:52:17,124 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 14:58:09,511 INFO    [main] ملف المريض: patients/default.json  مريض تجريبي
+2026-11-15 14:58:12,001 INFO    [main] Blynk: غير مفعّل (ضع BLYNK_TOKEN في ملف .env)   |   إشارة الرمش: fused   |   سجل الجلسة: logs\session_20261115_145809.csv
+2026-11-15 14:58:27,996 INFO    [main] [warning] المريض غير ظاهر في الكاميرا
+2026-11-15 15:10:13,701 INFO    [main] [emergency] طوارئ! أحتاج مساعدة فوراً
+2026-11-15 15:10:22,778 INFO    [main] [request] أحتاج ماء
+2026-11-15 15:10:28,264 INFO    [main] [request] أحتاج طعام
+2026-11-15 15:10:39,648 INFO    [main] [request] ألم في الرأس

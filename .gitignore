@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/
+data_ferplus/fer2013.csv
+data_ferplus/ferplus_cache.npz

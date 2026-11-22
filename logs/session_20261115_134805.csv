@@ -1,0 +1,5 @@
+﻿time,type,detail
+13:48:06,start,source=0
+13:48:09,calibration,ear_baseline=0.280
+13:48:11,emotion,happy (52%)
+13:48:20,stop,frames=291

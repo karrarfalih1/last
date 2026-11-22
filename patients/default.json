@@ -1,0 +1,18 @@
+{
+  "name": "مريض تجريبي",
+  "blink_messages": {
+    "2": "أحتاج ماء",
+    "3": "أحتاج طعام",
+    "4": "أشعر بألم"
+  },
+  "long_blink_message": "طوارئ! أحتاج مساعدة فوراً",
+  "menu_pattern": 5,
+  "timing": {
+    "deliberate_blink_min_seconds": 0.2,
+    "long_blink_seconds": 1.2,
+    "pattern_timeout": 1.5,
+    "emergency_cooldown": 10,
+    "scan_interval": 2.0
+  },
+  "blink_signal": "fused"
+}

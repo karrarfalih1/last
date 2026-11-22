@@ -1,0 +1,11 @@
+﻿time,type,detail
+14:58:12,start,source=0 signal=fused model=emotion_model.keras profile=patients/default.json patient=مريض تجريبي
+14:58:27,warning,المريض غير ظاهر في الكاميرا
+15:10:07,calibration,fused_baseline=0.939 yaw0=8.5 pitch0=14.3
+15:10:07,emotion,neutral (53%)
+15:10:13,emergency,طوارئ! أحتاج مساعدة فوراً
+15:10:22,request,أحتاج ماء
+15:10:28,request,أحتاج طعام
+15:10:35,menu,open
+15:10:39,request,ألم في الرأس
+15:10:53,stop,frames=9852

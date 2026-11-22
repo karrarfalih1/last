@@ -1,0 +1,25 @@
+﻿time,type,detail
+14:41:48,start,source=0 signal=fused model=emotion_model.keras profile=patients/default.json patient=مريض تجريبي
+14:41:57,calibration,fused_baseline=2.550 yaw0=51.1 pitch0=-3.3
+14:42:07,emotion,neutral (52%)
+14:42:12,emotion,happy (53%)
+14:42:16,emotion,neutral (52%)
+14:42:18,emotion,happy (56%)
+14:42:58,emotion,neutral (51%)
+14:46:31,emotion,happy (54%)
+14:46:34,emotion,neutral (51%)
+14:47:06,emotion,happy (56%)
+14:47:10,emotion,neutral (51%)
+14:47:23,emotion,happy (51%)
+14:47:26,emotion,neutral (51%)
+14:47:31,emotion,happy (55%)
+14:48:01,emergency,طوارئ! أحتاج مساعدة فوراً
+14:48:03,emotion,neutral (50%)
+14:48:20,emergency,طوارئ! أحتاج مساعدة فوراً
+14:49:14,emotion,happy (50%)
+14:49:38,emergency,طوارئ! أحتاج مساعدة فوراً
+14:49:52,emergency,طوارئ! أحتاج مساعدة فوراً
+14:49:59,emotion,neutral (51%)
+14:51:46,emergency,طوارئ! أحتاج مساعدة فوراً
+14:52:17,emergency,طوارئ! أحتاج مساعدة فوراً
+14:52:22,stop,frames=5197
